@@ -1,0 +1,9 @@
+C:\Users\Pattharapol-PC\Desktop\C#_Practice\Read_Write_File\Read_Write_File\bin\Debug\Read_Write_File.exe.config
+C:\Users\Pattharapol-PC\Desktop\C#_Practice\Read_Write_File\Read_Write_File\bin\Debug\Read_Write_File.exe
+C:\Users\Pattharapol-PC\Desktop\C#_Practice\Read_Write_File\Read_Write_File\bin\Debug\Read_Write_File.pdb
+C:\Users\Pattharapol-PC\Desktop\C#_Practice\Read_Write_File\Read_Write_File\obj\Debug\Read_Write_File.csprojResolveAssemblyReference.cache
+C:\Users\Pattharapol-PC\Desktop\C#_Practice\Read_Write_File\Read_Write_File\obj\Debug\Read_Write_File.Form1.resources
+C:\Users\Pattharapol-PC\Desktop\C#_Practice\Read_Write_File\Read_Write_File\obj\Debug\Read_Write_File.Properties.Resources.resources
+C:\Users\Pattharapol-PC\Desktop\C#_Practice\Read_Write_File\Read_Write_File\obj\Debug\Read_Write_File.csproj.GenerateResource.Cache
+C:\Users\Pattharapol-PC\Desktop\C#_Practice\Read_Write_File\Read_Write_File\obj\Debug\Read_Write_File.exe
+C:\Users\Pattharapol-PC\Desktop\C#_Practice\Read_Write_File\Read_Write_File\obj\Debug\Read_Write_File.pdb
